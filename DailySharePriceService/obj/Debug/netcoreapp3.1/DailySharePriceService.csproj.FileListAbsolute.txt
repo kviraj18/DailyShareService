@@ -1,0 +1,111 @@
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csprojAssemblyReference.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfoInputs.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfo.cs
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CoreCompileInputs.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.exe
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.deps.json
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.json
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.dev.json
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.Manifest.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.xml
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailySharePriceService.styles.css
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.RazorTargetAssemblyInfo.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.genruntimeconfig.cache
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Shipra\source\repos\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.exe
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.deps.json
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.json
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailySharePriceService.styles.css
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project 1\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.exe
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.deps.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.dev.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csprojAssemblyReference.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfoInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CoreCompileInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.Manifest.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.xml
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailySharePriceService.styles.css
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.RazorTargetAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CopyComplete
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.exe
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.deps.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\staticwebassets\DailySharePriceService.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailySharePriceService.styles.css
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\DailySharePriceService\DailySharePriceService\obj\Debug\netcoreapp3.1\DailySharePriceService.genruntimeconfig.cache
